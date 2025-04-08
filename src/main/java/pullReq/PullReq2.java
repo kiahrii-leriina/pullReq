@@ -1,9 +1,8 @@
 package pullReq;
 
-public class PullReq {
+public class PullReq2 {
 	public static void main(String[] args) {
-		System.out.println("pull request");
-		
+		System.out.println("pull req 2");
 	}
 
 }
